@@ -10,6 +10,9 @@ Along with the pyroelectic sensor is a bunch of supporting circuitry, resistors 
 
 # PIR Pinout
 Front
+
 ![PIR Front](https://github.com/coder-KO/PIR-Intruder-Detector/blob/master/Circuit%20Diagrams/motion-sensor-front.jpg)
+
 Back
+
 ![PIR Back](https://github.com/coder-KO/PIR-Intruder-Detector/blob/master/Circuit%20Diagrams/motion-sensor-back.jpg)
