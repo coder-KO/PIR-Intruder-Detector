@@ -9,4 +9,4 @@ PIRs are basically made of a pyroelectric sensor (which you can see above as the
 Along with the pyroelectic sensor is a bunch of supporting circuitry, resistors and capacitors. It seems that most small sensors use the BISS0001 ("Micro Power PIR Motion Detector IC"), undoubtedly a very inexpensive chip. This chip takes the output of the sensor and does some minor processing on it to emit a digital output pulse from the analog sensor.
 
 # PIR Pinout
-https://github.com/coder-KO/PIR-Intruder-Detector/blob/master/Circuit%20Diagrams/motion-sensor-front.jpg
+![PIR Front](https://github.com/coder-KO/PIR-Intruder-Detector/blob/master/Circuit%20Diagrams/motion-sensor-front.jpg)
